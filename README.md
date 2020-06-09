@@ -1,16 +1,19 @@
 ### Date created
-Include the date you created this project and README file.
+09/06/1998
 
 ### Project Title
-Replace the Project Title
+Project-3 Udacity
 
 ### Description
-Describe what your project is about and what it does
+It project about importing US bike share data and answer interesting questions about it by computing descriptive statistics. 
 
 ### Files used
-Include the files used
+bikeshare.py
+bikeshare.txt
+chicago.csv
+New_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+i have learnt through Udacity the best way of learning online.Learning by doing.
 
-#this is local branch
